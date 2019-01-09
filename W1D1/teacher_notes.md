@@ -3,19 +3,21 @@
 ### Front End Fundamentals
  - First slide Intro
 
+
 ### Welcome to Lighthouse Labs
  - Lighthouse is a Web and IOS Development school
  - In addition to this we also run
     - Intro to Web Development - PT
     - Web Development Bootcamp
     - IOS Development Bootcamp
-    - Blokchain for Developers
+    - Blockchain for Developers
 
   #### Housekeeping
     - Bathrooms
     - Slack for communication
     - If you can't make it, Slack
     - Can't get back into building
+
 
 ### Meet Your Instructors
 - Or in your case, instructor!
@@ -28,15 +30,19 @@
 - It's like solving puzzles all day long and sometimes it's frustrating
 - But when something clicks it's the best feeling
 
+
 ### Icebreakers
 - Sorry. My notes literally say
 - Apologize for making them do ice breakers, and then make them do ice breaker activities.
 
+
 ### Rules
 - Select a number between 1-10
 
+
 ### Questions
 - Discuss these with a group of 2-3
+
 
 ### Your Turn
 - Now it's your turn
@@ -45,11 +51,13 @@
 - What brought you here and/ or what are you hoping to get out of this course
 - Your Icebreaker question
 
+
 ### We love feedback
 - The way we make this course better is from your feedback
 - No feedback is too big, too small, too nice, or too critical
 - Please share any feedback you have with myself and also on Compass as you go through
 - At the end of every activity there is a place for feedback
+
 
 ### Class Format
 - Some days the format might vary a little bit
@@ -58,6 +66,7 @@
 - The work part I am here for the entirety of and you can call me over whenever you need help
 - Every class will be taking what we've learned and adding it to our projects bit by bit
 - The lectures are recorded and I will send out class notes at the end of every class
+
 
 ### Projects
 - Two project - HTML, and Javascript
@@ -84,6 +93,7 @@
 - There is way more than one way to solve a problem
 - Don't compare yourselves to others!
 
+
 ### Languages
 - Brief explanation of each Language
   - Week One - HTML
@@ -94,6 +104,7 @@
     - Javascript is what makes our webpages dynamic and adds functionality
     - jQuery is a JS library
     - A Library is a set of useful functions already created for us
+
 
 ### Elements of a Web App
 - Difference between a web app (Facebook) and web page (LighthouseLabs)
@@ -123,11 +134,13 @@
 - Expand on diagram with arrows to show how SQL queries work
 - What is a stack? Collection of software/languages
 
+
 ### What does a developer do?
 - Does anyone work with a developer? What are they like?
 - Lots of different types (full, front, back, db)
 - Developers translate business requirements or design mock ups into code
 - They don't work on their own in the basement! They work in collaborative teams
+
 
 ### Developers 101
 - Developers are opinionated
@@ -163,6 +176,7 @@
 - Development doesn't have to be a career, it can also be a really fun hobby. Makes a great career too though. There's always SO much to learn.
 - The Lighthouse way - doing things the hard way first "firehose"
 
+
 ### Tools
 - Does anyone use Slack at work? Slack is a messaging app and super useful
 - Please update your photo (it's a huge help)
@@ -182,32 +196,6 @@
 - Show wireframes from work
 - ***Demo*** of mockflow
 - You can also use paper and pen if you prefer!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Reminders
