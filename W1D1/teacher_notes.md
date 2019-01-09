@@ -109,6 +109,79 @@
 - They stand between the designer and the back end developer take the data from the back end developer
 - Front end languages live in the browser (HTML, CSS, Javascript)
 - Each play a separate role in building the front end of a web application. (How it’s structured, how it looks and how it functions).
+- This class is all about front end
+
+
+### Back End
+- A backend developer is responsible for handling the requests from the front end
+- The logic of a web app lives in the server
+
+
+### Database
+- A Database is like an excel spreadsheet but with more searching power
+- There are different types of databased but the most common is SQL
+- Expand on diagram with arrows to show how SQL queries work
+- What is a stack? Collection of software/languages
+
+### What does a developer do?
+- Does anyone work with a developer? What are they like?
+- Lots of different types (full, front, back, db)
+- Developers translate business requirements or design mock ups into code
+- They don't work on their own in the basement! They work in collaborative teams
+
+### Developers 101
+- Developers are opinionated
+  - Explain that developers all have their preferred tools, and languages.
+  - Take them with a grain of salt, and learn to form your own opinions about things.
+
+- Developers are lazy
+  - Briefly explain DRY, and that we don’t want to write more code than we have to.
+  - This is why libraries and frameworks are popular:
+      - they take away some of the common problems, and allow us to focus on building our sites and web apps quickly and efficiently.
+
+- Developers like coffee.
+  - Obvs.
+
+
+### Uh what does that mean?
+- Open source is code that is public and open to the public to modify for free
+  - Atom
+  - Nodejs
+  - React
+- Closed source is not public
+  - Google search algorithm
+- Stack is a collection of software/languages
+- Bug is something that causes an error in your code. These will have you banging your head against a wall for hours and then you cry when you realize it's a missing semicolon.
+- Git is used to track versions of code as projects develop and get larger.
+
+
+### Tips for this class
+- There will be times when you get stuck, frustrated, or feel overwhelmed
+- This is totally ok and completely normal
+- Don't stress about memorizing anything. We like to google. I will probably Google in class.
+- Have fun! It's awesome when something clicks - celebrate that!
+- Development doesn't have to be a career, it can also be a really fun hobby. Makes a great career too though. There's always SO much to learn.
+- The Lighthouse way - doing things the hard way first "firehose"
+
+### Tools
+- Does anyone use Slack at work? Slack is a messaging app and super useful
+- Please update your photo (it's a huge help)
+
+- Atom is where we will be writing code ***demo***
+
+- Compass is where you will do your work. ***demo***
+  - We wont use the queue but they use it in bootcamp
+
+- If you are going to be late or miss class you can contact me on Slack. Please don't be late.
+- You can also message me for help
+
+
+### Wireframing
+- Wireframing is like sketching out the plans for our web app before we start to write code
+  - You wouldn't start building a house without a building plan would you?
+- Show wireframes from work
+- ***Demo*** of mockflow
+- You can also use paper and pen if you prefer!
 
 
 
