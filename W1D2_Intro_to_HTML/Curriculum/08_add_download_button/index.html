@@ -6,10 +6,10 @@
       Echo the Cat
       <nav>
         <ul>
-          <li><a>About</a></li>
-          <li><a>Skills</a></li>
-          <li><a>Experience</a></li>
-          <li><a>Contact</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
     </header>
@@ -20,7 +20,7 @@
     </section>
     <main>
       <section>
-        <h2>About</h2>
+        <h2 id="about">About</h2>
         <strong>Kitty</strong>
         <p>
           I am a beloved house cat. I enjoy meowing at 4 in the morning to wake
@@ -30,7 +30,7 @@
         </p>
       </section>
       <section>
-        <h2>Skills</h2>
+        <h2 id="skills">Skills</h2>
         <ul>
           <li>Meowing<meter min="0" max="10" value="7"></meter></li>
           <li>Snuggles<meter min="0" max="10" value="6"></meter></li>
@@ -39,7 +39,7 @@
       </section>
       <section>
         <div>
-          <h2>Experience</h2>
+          <h2 id="experience">Experience</h2>
           <p>2002 - 2015</p>
           <p>The Freeman Household</p>
           <h3>Cat</h3>
@@ -57,5 +57,20 @@
         </div>
       </section>
     </main>
+    <footer id="contact">
+      <div>
+        <h2>Echo</h2>
+        <h3>Kitty Cat</h3>
+      </div>
+      <div>
+        <a href="./echo.pdf" download>Download Resume</a>
+        <a href="https://www.linkedin.com/in/echothecat/" target="_blank"
+          >LinkedIn</a
+        >
+        <a href="mailto:echo@echo.com">Email Me</a>
+        <a href="tel:12345678">Call me!</a>
+        <p>(Please don't call me. I'm a cat)</p>
+      </div>
+    </footer>
   </body>
 </html>
