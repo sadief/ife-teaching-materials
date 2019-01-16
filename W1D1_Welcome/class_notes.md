@@ -8,7 +8,7 @@ These notes will be sent out at the end of every class and will include a recap 
 
 If you have any questions or get stuck on something during the week please feel free to drop me a message on Slack.
 
-[Here's](https://youtu.be/L-evP_kxyN0) a link to today's lecture
+[Here's](https://youtu.be/qE-lT-SqYw8) a link to today's lecture
 
 Today we looked at what will be covered in the curriculum:
 
