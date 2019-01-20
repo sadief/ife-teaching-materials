@@ -1,0 +1,32 @@
+html,
+body,
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 500px;
+  width: 500px;
+}
+
+header {
+  background-color: green;
+  height: 250px;
+}
+
+aside {
+  background-color: pink;
+  height: 250px;
+  flex: 4;
+}
+
+main {
+  background-color: lightblue;
+  height: 250px;
+  flex: 2;
+}
+
+.container {
+  display: flex;
+}

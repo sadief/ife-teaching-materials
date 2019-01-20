@@ -19,6 +19,15 @@ body {
   font-style: italic;
 }
 
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+header {
+  padding: 2rem;
+}
+
 /* NAVBAR */
 .menu {
   text-transform: uppercase;
@@ -46,4 +55,9 @@ body {
 .footer-links {
   font-size: 12px;
   font-weight: 400;
+}
+
+.footer-background {
+  padding: 2rem;
+  background-color: #50858b;
 }

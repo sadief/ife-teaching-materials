@@ -19,14 +19,34 @@ body {
   font-style: italic;
 }
 
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+header {
+  padding: 2rem;
+}
+
 /* NAVBAR */
 .menu {
   text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .menu-link {
   color: white;
   text-decoration: none;
+  margin-left: 10px;
+}
+
+.photo-header {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* GENERAL STYLING */
@@ -46,4 +66,9 @@ body {
 .footer-links {
   font-size: 12px;
   font-weight: 400;
+}
+
+.footer-background {
+  padding: 2rem;
+  background-color: #50858b;
 }

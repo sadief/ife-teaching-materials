@@ -9,8 +9,8 @@
   </head>
   <body>
     <header class="top-background">
-      Echo the Cat
-      <nav>
+      <nav class="menu">
+        <p>Echo the Cat</p>
         <div>
           <li><a class="menu-link" href="#about">About</a></li>
           <li><a class="menu-link" href="#skills">Skills</a></li>
@@ -18,16 +18,16 @@
           <li><a class="menu-link" href="#contact">Contact</a></li>
         </div>
       </nav>
-    </header>
     <section>
-      <h1>Echo the Cat</h1>
-      <p>Furball</p>
+      <h2 class="name">Echo the Cat</h2>
+      <h3 class="title">Furball</h3>
       <img src="./echo.jpg" height="300px" />
+    </header>
     </section>
     <main>
       <section>
         <h2 id="about">About</h2>
-        <strong>Kitty</strong>
+        <strong class="section-subtitle">Kitty</strong>
         <p>
           I am a beloved house cat. I enjoy meowing at 4 in the morning to wake
           up the humans so they can feed me or turn on the fireplace. Sometimes
@@ -36,7 +36,7 @@
         </p>
       </section>
       <section class="top-background">
-        <h2 id="skills">Skills</h2>
+        <h2 class="section-title" id="skills">Skills</h2>
         <ul>
           <li>Meowing<meter min="0" max="10" value="7"></meter></li>
           <li>Snuggles<meter min="0" max="10" value="6"></meter></li>
@@ -45,10 +45,10 @@
       </section>
       <section>
         <div>
-          <h2 id="experience">Experience</h2>
+          <h2 class="section-title" id="experience">Experience</h2>
           <p>2002 - 2015</p>
           <p>The Freeman Household</p>
-          <h3>Cat</h3>
+          <h3 class="section-subtitle">Cat</h3>
           <p>
             Half-murdered birds and brought them into the house, scratched
             computer screens, and attacked the dog (a rottweiler) when she
@@ -58,23 +58,26 @@
         <div>
           <p>2001 - 2002</p>
           <p>Self employed contractor</p>
-          <h3>Kitten</h3>
+          <h3 class="section-subtitle">Kitten</h3>
           <p>Responsibilities included being adorable and eating food.</p>
         </div>
       </section>
     </main>
     <footer id="contact">
       <div>
-        <h2>Echo</h2>
-        <h3>Kitty Cat</h3>
+        <h2 class="name">Echo</h2>
+        <h3 class="title">Kitty Cat</h3>
       </div>
       <div>
-        <a href="./echo.pdf" download>Download Resume</a>
-        <a href="https://www.linkedin.com/in/echothecat/" target="_blank"
+        <a class="footer-links" href="./echo.pdf" download>Download Resume</a>
+        <a
+          class="footer-links"
+          href="https://www.linkedin.com/in/echothecat/"
+          target="_blank"
           >LinkedIn</a
         >
-        <a href="mailto:echo@echo.com">Email Me</a>
-        <a href="tel:12345678">Call me!</a>
+        <a class="footer-links" href="mailto:echo@echo.com">Email Me</a>
+        <a class="footer-links" href="tel:12345678">Call me!</a>
         <p>(Please don't call me. I'm a cat)</p>
       </div>
     </footer>

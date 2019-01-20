@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f2fffd;
+  font-family: "Niramit", sans-serif;
+}
+
+.top-background {
+  background-color: #5497a7;
+  color: white;
+}
+
+.section-title {
+  font-size: 24px;
+}
+
+.section-subtitle {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+header {
+  padding: 2rem;
+}
+
+/* NAVBAR */
+.menu {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-link {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.photo-header {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* GENERAL STYLING */
+.name {
+  font-style: bold;
+  font-size: 24px;
+  color: white;
+}
+
+.title {
+  font-style: bold;
+  font-size: 16px;
+  color: white;
+}
+
+/* EXPERIENCE */
+.experience-flex {
+  display: flex;
+  align-items: flex-start;
+}
+
+.date {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.company {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 0;
+  color: #50858b;
+}
+
+.company-date {
+  flex: 1;
+}
+
+.title-description {
+  flex: 2;
+}
+
+/* FOOTER */
+.footer-links {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.footer-background {
+  padding: 2rem;
+  background-color: #50858b;
+}

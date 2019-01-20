@@ -19,6 +19,15 @@ body {
   font-style: italic;
 }
 
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+header {
+  padding: 2rem;
+}
+
 /* NAVBAR */
 .menu {
   text-transform: uppercase;
