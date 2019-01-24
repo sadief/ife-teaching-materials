@@ -432,3 +432,10 @@ p {
 - [Box Model](https://medium.freecodecamp.org/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1)
 
 ---
+
+### Reminders
+
+- Record [Attendance](https://docs.google.com/spreadsheets/d/1e4Umh2ctkuot1fTwZQ43NxlWMvzsz2c-eGYQ_aVB5RA/edit#gid=1835992904)
+- Upload lecture
+- Send out Notes
+- Log hours on Clocktower

@@ -295,3 +295,10 @@ Go back to HTML live code and explain each element
   </body>
 </html>
 ```
+
+### Reminders
+
+- Record [Attendance](https://docs.google.com/spreadsheets/d/1e4Umh2ctkuot1fTwZQ43NxlWMvzsz2c-eGYQ_aVB5RA/edit#gid=1835992904)
+- Upload lecture
+- Send out Notes
+- Log hours on Clocktower
