@@ -205,7 +205,7 @@ justify-content: space-evenly;
 It accepts the following values:
 
 - Flex-Start & Flex-End: element’s will be aligned with the start or end of the cross-axis
-- Center: elements will be centred (either horizontally or vertically)
+- Center: elements will be centered (either horizontally or vertically)
 - Baseline: aligns along the baseline (ie: if there is text, the content will align along the bottom of the text
 - Stretch: (default) elements will stretch to fill entire width or height but they will follow max-height and max-width css properties.
 
