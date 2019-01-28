@@ -397,6 +397,14 @@ We are going to create a transition the background-color for the “.parent” s
 </html>
 ```
 
+First add a hover:
+
+```css
+.parent:hover {
+  background-color: lawngreen;
+}
+```
+
 This code will target the background-color property, but it wont work alone.
 
 ```css
