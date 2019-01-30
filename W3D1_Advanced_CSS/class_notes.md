@@ -1,5 +1,7 @@
 Great work tonight folks! Your resumes are coming along brilliantly!
 
+[Here's](https://www.youtube.com/watch?v=yyq4NGhUgA0) the link to today's lecture.
+
 Today we did:
 
 ### Review
@@ -237,3 +239,10 @@ It accepts these properties:
 `transition-timing-function: linear;`
 
 `transition-timing-function: ease-in-out;`
+
+### Bonus Extras
+
+CSS Transitions are _cool_. Here are two examples of some pretty nifty CSS stuff:
+
+- [CSS Zen Garden](http://www.csszengarden.com/)
+- [CSS Animations](https://www.creativebloq.com/inspiration/css-animation-examples)
