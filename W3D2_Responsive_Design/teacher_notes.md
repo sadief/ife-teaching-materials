@@ -301,3 +301,10 @@ This property only works when a background image is specified. It determines if 
 - Zip your project folder on your computer
 - Upload the zip file
 - Navigate to your URL and 🎉
+
+### Reminders
+
+- Record [Attendance](https://docs.google.com/spreadsheets/d/1e4Umh2ctkuot1fTwZQ43NxlWMvzsz2c-eGYQ_aVB5RA/edit#gid=1835992904)
+- Upload lecture
+- Send out Notes
+- Log hours on Clocktower
