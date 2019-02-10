@@ -42,8 +42,6 @@ Media Query
 
 Anything you place in this media query will override any default styles and apply it to your HTML when it matches the specified width.
 
-[Here's](https://codepen.io/sadief/pen/vQpWwJ?editors=1100) a link to the Media Queries Codepen.
-
 [Jen Simmons](http://jensimmons.com/) Has some great responsive styles and some awesome front-end youtube videos.
 
 ### Parallax
@@ -64,8 +62,6 @@ We can achieve this in three steps:
 3. Set Background Attachment
 
 - `background-attachment: fixed` This only works when a background image is specified. It determines if the image stays in place or scrolls with the content.
-
-[Here's](https://codepen.io/sadief/pen/GwyBwM) a link to the Parallax Codepen.
 
 ### Deployment
 
