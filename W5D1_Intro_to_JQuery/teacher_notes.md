@@ -1,4 +1,4 @@
-# Intro to Front End - Intro to Javascript Part 2
+# Intro to Front End - Intro to JQuery
 
 **_Set up the Live Stream_**
 
@@ -486,3 +486,12 @@ $("form").submit(function() {
 [Target Elements, jQuery Practice](https://learn.freecodecamp.org/front-end-libraries/jquery/target-html-elements-with-selectors-using-jquery/)
 
 [Use jQuery to modify page](https://learn.freecodecamp.org/front-end-libraries/jquery/use-jquery-to-modify-the-entire-page/)
+
+---
+
+### Reminders
+
+- Record [Attendance](https://docs.google.com/spreadsheets/d/1e4Umh2ctkuot1fTwZQ43NxlWMvzsz2c-eGYQ_aVB5RA/edit#gid=1835992904)
+- Upload lecture
+- Send out Notes
+- Log hours on Clocktower
