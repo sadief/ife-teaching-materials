@@ -184,8 +184,13 @@ So how do we use jQuery to request data?
 ### We have a function called GET
 
 ```javascript
-$.get("https://myfakestocks.com/stocks?stock=AAPL&range=year", function(data) {
-  console.log(data);
+$(function() {
+  $.get(
+    "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita",
+    function(data) {
+      console.log(data);
+    }
+  );
 });
 ```
 
