@@ -1,5 +1,11 @@
 # Intro to Front End - Intro to FlexBox
 
+## Notes for next class:
+
+- Scaffold something for the stretch properties
+- Is there the opposite of baseline?
+- Justify self?
+
 **_Set up the Live Stream_**
 
 ### Front End Fundamentals

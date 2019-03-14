@@ -1,5 +1,12 @@
 # Intro to Front End - Intro to HTML
 
+## Notes for next Class:
+
+- Switch the HTML skeleton until later on it's a bit jarring to go and come back to
+- Tell them how to name folders
+- Go through how to link an image into a page
+- Don't forget to talk about alt tags!
+
 **_Set up the Live Stream_**
 
 ### Front End Fundamentals
