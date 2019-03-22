@@ -1,13 +1,13 @@
-Hey everyone! Thanks for another great class - your wireframes are looking fab!
+Hey everyone! Lovely to meet everyone this evening and looking forward to the next six weeks!
 
-[Here's](https://youtu.be/QL7STO_O8Vw) a link to today's lecture.
+[Here's](https://www.youtube.com/watch?v=qoG8O6rdK6A) a link to today's lecture.
 
 Here's today's notes and examples of the code we created in lecture.
 Please feel free to reach out if you have any questions.
 
 #### W1D2
 
-Today we learned about HTML and what it does. Html has little to do with how our webpage actually _looks_, but it adds **context** to our **content**. The fun styley bit comes next week :grinning:
+Today we learned about HTML and what it does. Html has little to do with how our webpage actually _looks_, but it adds **context** to our **content**. The fun styley bit comes next week!
 
 #### Atom
 
@@ -32,8 +32,8 @@ Atom is a text editor for our code! Here's some handy tips for using Atom:
 
 #### HTML tags
 
-```
-  <p> I'm a paragraph! </p>
+```html
+<p>I'm a paragraph!</p>
 ```
 
 Most HTML tags have:
@@ -46,12 +46,11 @@ Most HTML tags have:
 
 These are a few of the common HTML tags that we use to wrap text in:
 
-```
- <h1></h1
- <h7></h7>
- <p></p>
- <strong></strong>
- <em></em>
+```html
+<h1></h1>
+<h7></h7>
+<p></p>
+<strong></strong> <em></em>
 ```
 
 #### Nested tags
@@ -89,17 +88,16 @@ Some examples of semantic tags are:
 
 This is starter code for our web pages! We re-use this so we don't have to write the same thing over and over again.
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
-   	 <title>My Awesome Web Page</title>
+    <title>My Awesome Web Page</title>
   </head>
   <body>
-  	<!-- Content goes here -->
+    <!-- Content goes here -->
   </body>
 </html>
-
 ```
 
 - `<!DOCTYPE html>` declaration defines this document to be HTML5
@@ -112,13 +110,12 @@ This is starter code for our web pages! We re-use this so we don't have to write
 
 Here is the code that we wrote for the wireframe in class:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Awesome Resume Page</title>
+    <title>I am a hacker</title>
   </head>
-
   <body>
     <header>
       <nav>
@@ -127,14 +124,18 @@ Here is the code that we wrote for the wireframe in class:
         <li>Link 3</li>
         <li>Link 4</li>
       </nav>
-      <h4>Firstname Lastname</h4>
-      <h7>Occupation</h7> <button>Button</button>
-      <article>Image Here</article>
+      <section>
+        <h4>Firstname LastName</h4>
+        <h7>Occupation</h7> <button>Button</button>
+      </section>
+      <section><img src="./echo.jpg" height="300px" /></section>
     </header>
-    <main>
-      <h6>About</h6>
-      <p>PARAGRAPH ABOUT ME</p>
-    </main>
+    <section>
+      <h4>About</h4>
+      <p>
+        qwertyuiopdfslafsadjlksadjkadsjkflsjkdfjkldfsjklfdsjdfs;jadfsadsj;adflsjdfksl
+      </p>
+    </section>
   </body>
 </html>
 ```

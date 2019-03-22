@@ -1,4 +1,4 @@
-Hey folks, another fab session today with everyone! Great work grasping the flexbox fundamentals - they are often tricky to get the hang of right away!
+Hey folks, great work tonight! Keep flexin'
 
 Today we did:
 
@@ -100,5 +100,10 @@ Similarly there are properties that you can apply to the child elements
 - flex-shrink: 2
 - flex-shrink: 5
 - (etc)
+
+#### flex (grow, shrink, basis)
+
+- flex: 1
+- flex: 1 1 auto
 
 If you haven't already done Flexbox Froggy, DO IT. I promise it will help!
