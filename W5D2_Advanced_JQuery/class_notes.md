@@ -63,7 +63,7 @@ We can also add elements to the page as siblings, instead of children.
 After and Before both create new elements but in different locations, either before or after the selected element.
 
 ```
-$('li').after("<li>A new sibling list item</li>”)
+$('li').after("<li>Ghost</li>”)
 
 $('li').before("<li>A new sibling list item</li>")
 ```
