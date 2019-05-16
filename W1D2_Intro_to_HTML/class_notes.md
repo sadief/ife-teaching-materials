@@ -1,6 +1,6 @@
 Hey everyone! Lovely to meet everyone this evening and looking forward to the next six weeks!
 
-[Here's](https://www.youtube.com/watch?v=qoG8O6rdK6A) a link to today's lecture.
+[Here's](https://www.youtube.com/watch?v=T0L__wZqygo) a link to today's lecture.
 
 Here's today's notes and examples of the code we created in lecture.
 Please feel free to reach out if you have any questions.
@@ -114,28 +114,48 @@ Here is the code that we wrote for the wireframe in class:
 <!DOCTYPE html>
 <html>
   <head>
-    <title>I am a hacker</title>
+    <title>My Awesome Resume Page</title>
   </head>
   <body>
     <header>
       <nav>
-        <li>Link 1</li>
-        <li>Link 2</li>
-        <li>Link 3</li>
-        <li>Link 4</li>
+        <ul>
+          <li>Link 1</li>
+          <li>Link 2</li>
+          <li>Link 3</li>
+          <li>Link 4</li>
+        </ul>
       </nav>
       <section>
-        <h4>Firstname LastName</h4>
-        <h7>Occupation</h7> <button>Button</button>
+        <h1>FirstName LastName</h1>
+        <p>Occupation</p>
+        <button>Button</button>
       </section>
-      <section><img src="./echo.jpg" height="300px" /></section>
+      <section>
+        <img src="./echo.jpg" height="150px" alt="picture of cat" />
+      </section>
     </header>
-    <section>
-      <h4>About</h4>
+    <main>
+      <h2>About</h2>
       <p>
-        qwertyuiopdfslafsadjlksadjkadsjkflsjkdfjkldfsjklfdsjdfs;jadfsadsj;adflsjdfksl
+        Cupcake ipsum dolor sit amet pastry jelly beans. Brownie jujubes chupa
+        chups fruitcake lemon drops toffee chocolate bar. Cookie oat cake bear
+        claw marshmallow donut cake topping. Jelly beans carrot cake chocolate
+        cake. Sugar plum icing apple pie cookie. Candy lemon drops danish
+        lollipop icing chocolate cake. Chupa chups caramels gummies. Chupa chups
+        tart powder tootsie roll pudding caramels jelly. Caramels toffee muffin
+        oat cake sweet. Pie carrot cake marshmallow candy canes soufflé
+        chocolate bar pudding cake. Topping apple pie candy canes lollipop sweet
+        roll apple pie macaroon jujubes. Sugar plum liquorice marshmallow bonbon
+        jelly cotton candy gummies. Jelly topping bonbon lemon drops. Cotton
+        candy pie jujubes chocolate soufflé candy canes gummies. Fruitcake
+        dragée apple pie macaroon jelly-o sweet marzipan pudding. Pie biscuit
+        lemon drops chupa chups lollipop croissant pie jelly tiramisu. Gummies
+        bear claw wafer marshmallow tootsie roll ice cream bear claw caramels
+        croissant. Sesame snaps oat cake brownie sesame snaps croissant
+        lollipop. Toffee chocolate cake gummies.
       </p>
-    </section>
+    </main>
   </body>
 </html>
 ```

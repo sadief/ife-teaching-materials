@@ -335,6 +335,9 @@ for (var i = 1; i < 101; i++) {
 ```javascript
 function yellowPager(word) {
   let str = word.toLowerCase().split("");
+  if (str.length != 10) {
+    return false
+  }
   let answer = "";
 
   for (var i = 0; i < str.length; i++) {
@@ -353,34 +356,50 @@ function yellowPager(word) {
 yellowPager("Lighthouse");
 ```
 
----
-
-### Word Count
-
 ```javascript
-var foods = [
-  "pizza",
-  "celery",
-  "bananas",
-  "pizza",
-  "lettuce",
-  "cookies",
-  "pizza"
-];
+function yellowPager(word) {
+  let phone = {
+    a: 2,
+    b: 2,
+    c: 2,
+    d: 3,
+    e: 3,
+    f: 3,
+    g: 4,
+    h: 4,
+    i: 4,
+    j: 5,
+    k: 5,
+    l: 5,
+    m: 6,
+    n: 6,
+    o: 6,
+    p: 6,
+    q: 7,
+    r: 7,
+    s: 7,
+    t: 8,
+    u: 8,
+    v: 8,
+    w: 9,
+    x: 9,
+    y: 9,
+    z: 9,
+  }
+  let str = word.toLowerCase().split("");
+  if (str.length != 10) {
+    return false
+  }
+  let res = []
 
-function wordCount(wordArray, searchWord) {
-  let count = 0;
-
-  for (var i = 0; i < wordArray.length; i++) {
-    if (wordArray[i] === searchWord) {
-      count += 1;
-    }
+  for (var i = 0; i < str.length; i++) {
+    res.push(phone[str[i]])
   }
 
-  return count;
+  console.log(res.join(""));
 }
 
-console.log(wordCount(foods, "celery"));
+yellowPager("Lighthouse");
 ```
 
 ---

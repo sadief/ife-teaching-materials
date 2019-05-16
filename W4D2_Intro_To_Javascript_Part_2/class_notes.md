@@ -8,8 +8,6 @@ Hey everyone! Great work tonight! So today we did a review of:
 - If statements
 - Functions
 
-(You can refer to Monday's notes for a breakdown of these)
-
 Then we looked at Objects, Arrays, and Loops
 
 ### Objects
@@ -111,6 +109,93 @@ while (count < 10) {
   console.log(count);
   count += 2;
 }
+```
+### Fizz Buzz
+
+```javascript
+for (var i = 1; i < 101; i++) {
+  if (i % 15 == 0) {
+    console.log("FizzBuzz");
+  } else if (i % 3 == 0) {
+    console.log("Fizz");
+  } else if (i % 5 == 0) {
+  console.log("Buzz");
+  } else {
+    console.log(i);
+  }
+}
+```
+
+### Yellow Pager
+
+```javascript
+function yellowPager(word) {
+  let str = word.toLowerCase().split("");
+  if (str.length != 10) {
+    return false
+  }
+  let answer = "";
+
+  for (var i = 0; i < str.length; i++) {
+    if (str[i] == "a" || str[i] == "b" || str[i] == "c") {
+      answer += "2";
+    } else if (str[i] == "d" || str[i] == "e" || str[i] == "f") {
+      answer += "3";
+    } else if (str[i] == "g" || str[i] == "h" || str[i] == "i") {
+      answer += "4";
+    }
+  }
+
+  console.log(answer);
+}
+
+yellowPager("Lighthouse");
+```
+
+```javascript
+function yellowPager(word) {
+  let phone = {
+    a: 2,
+    b: 2,
+    c: 2,
+    d: 3,
+    e: 3,
+    f: 3,
+    g: 4,
+    h: 4,
+    i: 4,
+    j: 5,
+    k: 5,
+    l: 5,
+    m: 6,
+    n: 6,
+    o: 6,
+    p: 6,
+    q: 7,
+    r: 7,
+    s: 7,
+    t: 8,
+    u: 8,
+    v: 8,
+    w: 9,
+    x: 9,
+    y: 9,
+    z: 9,
+  }
+  let str = word.toLowerCase().split("");
+  if (str.length != 10) {
+    return false
+  }
+  let res = []
+
+  for (var i = 0; i < str.length; i++) {
+    res.push(phone[str[i]])
+  }
+
+  console.log(res.join(""));
+}
+
+yellowPager("Lighthouse");
 ```
 
 Last but not least, [here](https://www.codecademy.com/learn/introduction-to-javascript) is a link to CodeAcademy's Javascript course. It's free and gives some great practice on the things we've covered already to get more comfortable with things like loops etc.

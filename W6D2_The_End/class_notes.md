@@ -54,12 +54,17 @@ We talked about other languages - there are TONS and lots of different reasons t
 
 [Beginner Programming Languages](https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6)
 
+### WordPress
+
+- [Udemy](https://www.udemy.com/topic/wordpress/)
+- [Beginners Wordpress](https://www.wpbeginner.com/beginners-guide/how-to-learn-wordpress-for-free-in-a-week-or-less/)
+
 ### Raspberry Pi / Robotics
 
-We don't cover this in the course but I know some of you were interested so here's some links!
+We don't cover this in the course but it's kinda cool if you're interested!
 
 - [Beginner's Guide to Raspberry Pi](https://gizmodo.com/the-beginners-guide-to-the-raspberry-pi-1782608097)
-- [Make your own robot car](https://www.elegoo.com/) Or Penguin bot, etc.. This uses Arduino (which uses C++ for the code, but you don't need to know any C++ to make it). Honestly one of the funnest things I'v emad ein my adult life.
+- [Make your own robot car](https://www.elegoo.com/) Or Penguin bot, etc.. This uses Arduino (which uses C++ for the code, but you don't need to know any C++ to make it). Honestly one of the funnest things I've made in my adult life.
 
 ### The End
 

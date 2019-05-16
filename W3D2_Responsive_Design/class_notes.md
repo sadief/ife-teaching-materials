@@ -73,7 +73,7 @@ In order to deploy your site to getforge.io:
 2. Create site on GetForge
 3. Zip your project folder on your computer
 4. Upload the zip file
-5. Navigate to your URL :boom:
+5. Navigate to your URL
    ([Echo's page](echo.getforge.io))
 
 Also [here's](https://css-tricks.com/snippets/css/keyframe-animation-syntax/) a final link to some stretch reading on more CSS Animation
